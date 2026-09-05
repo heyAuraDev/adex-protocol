@@ -495,7 +495,7 @@ It's important to note that **this is not enforced on a blockchain/smart contrac
 
 #### Sign-up process
 
-We intend to allow publishers/advertisers to sign-up to the platform using any pre-approved token (e.g. USDC, ADX), or with ETH, by leveraging [Uniswap](https://uniswap.io/) to automatically convert to one of the pre-approved tokens.
+We intend to allow publishers/advertisers to sign-up to the platform using any pre-approved token (e.g. USDC, ADX), or with ETH, by leveraging [Uniswap](https://uniswap.org/) to automatically convert to one of the pre-approved tokens.
 
 If there's a suitable way to do it, we intend to allow opening a campaign with USD/EUR by integrating the platform with a third-party service that allows purchasing USDC with USD/EUR, such as Ramp Network.
 
