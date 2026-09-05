@@ -25,4 +25,4 @@ Ad Slot represents Publisher ad space entity for displaying [Ad Units][Ad Unit] 
 [TargetingTag]: https://github.com/AdExNetwork/adex-protocol/blob/master/campaignSpec.md#targetingtag
 [targeting DSL rules]: https://github.com/AdExNetwork/adex-protocol/blob/master/targetingAndBidding.md#targeting-dsl
 [Targeting and bidding]: https://github.com/AdExNetwork/adex-protocol/blob/master/targetingAndBidding.md
-[ipfs]: https://ipfs.io/
+[ipfs]: https://ipfs.tech/
